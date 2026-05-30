@@ -9,7 +9,6 @@
 <br/>
 
 <p align="center">
-  <h2>omerican burger dev</h2>
 </p>
 <br/>
 
